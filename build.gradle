@@ -1,0 +1,67 @@
+apply plugin: 'application'
+apply plugin: 'java'
+
+mainClassName = 'seedu.address.MainApp'
+
+clean
+
+repositories {
+    jcenter()
+    mavenCentral()
+    maven { url "https://repo.eclipse.org/content/repositories/egit-releases/" }
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+    maven { url "http://commons.apache.org/proper/commons-io/"}
+}
+
+project.ext {
+    controlsFxVersion = '8.40.11'
+    guavaVersion = '19.0'
+    jacksonVersion = '2.7.0'
+    jacksonDataTypeVersion = '2.7.4'
+    junitVersion = '4.12'
+    testFxVersion = '4.0.5-alpha'
+    monocleVersion = '1.8.0_20'
+    checkstyleVersion = '8.1'
+
+    libDir = 'lib'
+}
+
+dependencies {
+    compile group: 'org.fxmisc.easybind', name: 'easybind', version: '1.0.3'
+    compile "org.controlsfx:controlsfx:$controlsFxVersion"
+    compile "com.fasterxml.jackson.core:jackson-databind:$jacksonVersion"
+    compile "com.fasterxml.jackson.datatype:jackson-datatype-jsr310:$jacksonDataTypeVersion"
+    compile "com.google.guava:guava:$guavaVersion"
+    compile group: 'org.eclipse.jdt', name: 'org.eclipse.jdt.core', version: '3.10.0'
+    compile group: 'commons-io', name: 'commons-io', version: '2.5'
+
+    testCompile "junit:junit:$junitVersion"
+    testCompile "org.testfx:testfx-core:$testFxVersion"
+    testCompile "org.testfx:testfx-junit:$testFxVersion"
+    testCompile "org.testfx:testfx-legacy:$testFxVersion", {
+        exclude group: "junit", module: "junit"
+    }
+    testCompile "org.testfx:openjfx-monocle:$monocleVersion"
+}
+
+    task runTests(type: Test) {
+        include 'gopiTests/**'
+        testLogging {
+            events "passed", "skipped", "failed"
+        }
+    }
+
+/*
+    test {
+        testLogging {
+            events "passed", "skipped", "failed"
+        }
+    }
+*/
+
+    task (runApp, type: JavaExec){
+        classpath = sourceSets.main.runtimeClasspath
+        main = 'seedu.address.MainApp'
+    }
+
+    defaultTasks ('clean','runTests','runApp')

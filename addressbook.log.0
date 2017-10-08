@@ -1,0 +1,398 @@
+Sep 14, 2017 7:33:30 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Sep 14, 2017 7:33:30 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Sep 14, 2017 7:33:30 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: Json file config.json not found
+Sep 14, 2017 7:33:30 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Sep 14, 2017 7:33:30 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: Json file preferences.json not found
+Sep 14, 2017 7:33:31 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Sep 14, 2017 7:33:31 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Sep 14, 2017 7:33:31 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Sep 14, 2017 7:33:31 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Sep 14, 2017 7:33:31 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Sep 14, 2017 7:33:39 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Sep 14, 2017 7:34:00 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Sep 14, 2017 7:34:00 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Sep 14, 2017 7:34:01 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Sep 14, 2017 7:34:01 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Sep 14, 2017 7:34:01 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Sep 14, 2017 7:34:01 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Sep 14, 2017 7:34:01 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Sep 14, 2017 7:34:01 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Sep 14, 2017 7:34:07 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Sep 14, 2017 7:34:48 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Sep 14, 2017 7:34:48 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Sep 14, 2017 7:34:49 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Sep 14, 2017 7:34:49 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Sep 14, 2017 7:34:49 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Sep 14, 2017 7:34:49 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Sep 14, 2017 7:34:49 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Sep 14, 2017 7:34:49 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Sep 14, 2017 7:35:02 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Sep 14, 2017 7:41:10 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Sep 14, 2017 7:41:10 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Sep 14, 2017 7:41:13 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Sep 14, 2017 7:41:13 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Sep 14, 2017 7:41:13 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Sep 14, 2017 7:41:13 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Sep 14, 2017 7:41:14 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Sep 14, 2017 7:41:14 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Sep 14, 2017 7:41:24 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Sep 14, 2017 7:47:46 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Sep 14, 2017 7:47:46 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Sep 14, 2017 7:47:47 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Sep 14, 2017 7:47:47 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Sep 14, 2017 7:47:47 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Sep 14, 2017 7:47:47 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Sep 14, 2017 7:47:48 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Sep 14, 2017 7:47:48 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Sep 14, 2017 7:47:55 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Sep 14, 2017 7:48:46 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Sep 14, 2017 7:48:46 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Sep 14, 2017 7:48:47 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Sep 14, 2017 7:48:47 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Sep 14, 2017 7:48:47 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Sep 14, 2017 7:48:47 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Sep 14, 2017 7:48:47 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Sep 14, 2017 7:48:47 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Sep 14, 2017 7:48:52 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Sep 14, 2017 7:50:05 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Sep 14, 2017 7:50:05 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Sep 14, 2017 7:50:06 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Sep 14, 2017 7:50:07 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Sep 14, 2017 7:50:07 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Sep 14, 2017 7:50:07 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Sep 14, 2017 7:50:08 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Sep 14, 2017 7:50:08 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 07, 2017 8:49:48 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 07, 2017 8:49:48 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 07, 2017 8:49:49 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 07, 2017 8:49:49 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 07, 2017 8:49:49 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 07, 2017 8:49:49 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 07, 2017 8:49:50 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 07, 2017 8:49:50 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 07, 2017 8:50:03 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 07, 2017 10:58:59 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 07, 2017 10:58:59 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 07, 2017 10:59:00 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 07, 2017 10:59:00 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 07, 2017 10:59:00 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 07, 2017 10:59:00 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 07, 2017 10:59:01 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 07, 2017 10:59:01 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 07, 2017 10:59:59 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 5:16:58 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 5:16:58 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 5:16:59 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 5:16:59 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 5:16:59 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 5:16:59 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 5:17:00 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 5:17:00 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 5:17:13 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 5:18:45 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 5:18:45 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 5:18:45 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 5:18:45 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 5:18:45 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 5:18:45 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 5:18:45 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 5:18:45 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 5:19:08 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 5:20:05 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 5:20:05 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 5:20:06 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 5:20:06 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 5:20:06 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 5:20:06 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 5:20:06 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 5:20:06 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 5:23:50 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 5:24:07 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 5:24:07 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 5:24:08 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 5:24:08 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 5:24:08 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 5:24:08 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 5:24:08 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 5:24:08 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 5:26:18 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 5:34:57 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 5:34:57 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 5:34:58 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 5:34:58 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 5:34:58 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 5:34:58 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 5:34:59 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 5:34:59 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 5:35:13 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 5:44:49 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 5:44:49 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 5:44:50 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 5:44:50 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 5:44:50 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 5:44:50 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 5:44:51 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 5:44:51 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 5:45:03 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 5:57:47 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 5:57:48 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 5:57:48 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 5:57:49 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 5:57:49 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 5:57:49 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 5:57:53 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 5:57:53 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 5:58:04 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 6:00:50 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 6:00:50 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 6:00:51 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 6:00:52 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 6:00:52 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 6:00:52 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 6:00:57 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 6:00:57 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 6:01:05 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 6:03:54 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 6:03:54 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 6:03:55 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 6:03:56 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 6:03:56 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 6:03:56 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 6:04:00 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 6:04:00 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 6:04:06 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 6:06:06 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 6:06:06 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 6:06:06 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 6:06:07 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 6:06:07 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 6:06:07 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 6:06:12 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 6:06:12 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 6:06:32 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 6:08:04 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 6:08:04 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 6:08:05 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 6:08:06 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 6:08:06 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 6:08:06 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 6:08:11 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 6:08:11 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 6:08:17 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 6:14:19 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 6:14:19 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 6:14:20 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 6:14:22 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 6:14:22 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 6:14:22 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 6:14:28 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 6:14:28 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 6:14:39 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Oct 08, 2017 6:18:17 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Oct 08, 2017 6:18:17 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Oct 08, 2017 6:18:18 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Oct 08, 2017 6:18:18 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Oct 08, 2017 6:18:18 PM seedu.address.storage.XmlAddressBookStorage readAddressBook
+INFO: AddressBook file data\addressbook.xml not found
+Oct 08, 2017 6:18:19 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Oct 08, 2017 6:18:24 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.6.0ea
+Oct 08, 2017 6:18:25 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Oct 08, 2017 6:18:32 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================

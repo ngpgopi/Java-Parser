@@ -1,0 +1,1169 @@
+LineNumber: 57, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: MainApp
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: MainApp, VariableName: init
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getApplicationParameter, Class: MainApp
+LineNumber: 118, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: initConfig, Class: MainApp, VariableName: Config, VariableName: initializedConfig
+LineNumber: 119, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: initConfig, Class: MainApp, VariableName: String, VariableName: configFilePathUsed
+LineNumber: 121, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initConfig, Class: MainApp, VariableName: configFilePathUsed, VariableName: Config, VariableName: DEFAULT_CONFIG_FILE
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.IfStatement, Method: initConfig, Class: MainApp, VariableName: configFilePath
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initConfig, Class: MainApp
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 59, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: readJsonFile, Class: JsonUtil
+LineNumber: 60, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: readJsonFile, Class: JsonUtil, VariableName: File, VariableName: file, VariableName: File, VariableName: filePath
+LineNumber: 62, Type: org.eclipse.jdt.core.dom.IfStatement, Method: readJsonFile, Class: JsonUtil
+LineNumber: 67, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: readJsonFile, Class: JsonUtil, VariableName: T, VariableName: jsonFile
+LineNumber: 70, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: readJsonFile, Class: JsonUtil
+LineNumber: 131, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: initConfig, Class: MainApp
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initConfig, Class: MainApp
+LineNumber: 87, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveJsonFile, Class: JsonUtil
+LineNumber: 88, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveJsonFile, Class: JsonUtil
+LineNumber: 80, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: writeToFile, Class: FileUtil
+LineNumber: 42, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: serializeObjectToJsonFile, Class: JsonUtil
+LineNumber: 90, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveJsonFile, Class: JsonUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveConfig, Class: ConfigUtil
+LineNumber: 141, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initConfig, Class: MainApp
+LineNumber: 60, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: MainApp
+LineNumber: 18, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: JsonUserPrefsStorage, Class: JsonUserPrefsStorage, VariableName: filePath, VariableName: filePath
+LineNumber: 62, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: init, Class: MainApp
+LineNumber: 154, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: initPrefs, Class: MainApp
+LineNumber: 155, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initPrefs, Class: MainApp
+LineNumber: 157, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: initPrefs, Class: MainApp, VariableName: UserPrefs, VariableName: initializedPrefs
+LineNumber: 59, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: readJsonFile, Class: JsonUtil
+LineNumber: 60, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: readJsonFile, Class: JsonUtil, VariableName: File, VariableName: file, VariableName: File, VariableName: filePath
+LineNumber: 62, Type: org.eclipse.jdt.core.dom.IfStatement, Method: readJsonFile, Class: JsonUtil
+LineNumber: 67, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: readJsonFile, Class: JsonUtil, VariableName: T, VariableName: jsonFile
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowWidth, VariableName: windowWidth
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowHeight, VariableName: windowHeight
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowCoordinates, VariableName: Point, VariableName: xPosition, VariableName: yPosition
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setGuiSettings, Class: UserPrefs, VariableName: guiSettings, VariableName: GuiSettings, VariableName: width, VariableName: height, VariableName: x, VariableName: y
+LineNumber: 17, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UserPrefs, Class: UserPrefs
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowWidth, VariableName: DEFAULT_WIDTH
+LineNumber: 21, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowHeight, VariableName: DEFAULT_HEIGHT
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowCoordinates
+LineNumber: 70, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: readJsonFile, Class: JsonUtil
+LineNumber: 159, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: initPrefs, Class: MainApp
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowWidth, VariableName: windowWidth
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowHeight, VariableName: windowHeight
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowCoordinates, VariableName: Point, VariableName: xPosition, VariableName: yPosition
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setGuiSettings, Class: UserPrefs, VariableName: guiSettings, VariableName: GuiSettings, VariableName: width, VariableName: height, VariableName: x, VariableName: y
+LineNumber: 17, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UserPrefs, Class: UserPrefs
+LineNumber: 160, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initPrefs, Class: MainApp
+LineNumber: 87, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveJsonFile, Class: JsonUtil
+LineNumber: 88, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveJsonFile, Class: JsonUtil
+LineNumber: 80, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: writeToFile, Class: FileUtil
+LineNumber: 42, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: serializeObjectToJsonFile, Class: JsonUtil
+LineNumber: 90, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveJsonFile, Class: JsonUtil
+LineNumber: 42, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveUserPrefs, Class: JsonUserPrefsStorage
+LineNumber: 172, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initPrefs, Class: MainApp
+LineNumber: 63, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: MainApp
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: XmlAddressBookStorage, Class: XmlAddressBookStorage, VariableName: filePath, VariableName: filePath
+LineNumber: 64, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: init, Class: MainApp
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 18, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: EventsCenter, Class: EventsCenter, VariableName: eventBus, VariableName: EventBus
+LineNumber: 23, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getInstance, Class: EventsCenter, VariableName: instance, VariableName: EventsCenter
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getInstance, Class: EventsCenter, VariableName: instance
+LineNumber: 21, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ComponentManager, Class: ComponentManager, VariableName: eventsCenter, VariableName: eventsCenter
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerHandler, Class: EventsCenter
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ComponentManager, Class: ComponentManager
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: StorageManager, Class: StorageManager, VariableName: addressBookStorage, VariableName: addressBookStorage
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: StorageManager, Class: StorageManager, VariableName: userPrefsStorage, VariableName: userPrefsStorage
+LineNumber: 65, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: MainApp, VariableName: storage, VariableName: StorageManager, VariableName: addressBookStorage, VariableName: userPrefsStorage
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: LogsCenter
+LineNumber: 37, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: LogsCenter
+LineNumber: 109, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initLogging, Class: MainApp
+LineNumber: 67, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: MainApp
+LineNumber: 89, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: initModelManager, Class: MainApp, VariableName: Optional, VariableName: ReadOnlyAddressBook, VariableName: addressBookOptional
+LineNumber: 90, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: initModelManager, Class: MainApp, VariableName: ReadOnlyAddressBook, VariableName: initialData
+LineNumber: 65, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: readAddressBook, Class: StorageManager
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: readAddressBook, Class: XmlAddressBookStorage
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: readAddressBook, Class: XmlAddressBookStorage, VariableName: File, VariableName: addressBookFile, VariableName: File, VariableName: filePath
+LineNumber: 50, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: readAddressBook, Class: XmlAddressBookStorage
+LineNumber: 92, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initModelManager, Class: MainApp
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initModelManager, Class: MainApp
+LineNumber: 93, Type: org.eclipse.jdt.core.dom.IfStatement, Method: initModelManager, Class: MainApp
+LineNumber: 50, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getSampleAddressBook, Class: SampleDataUtil, VariableName: AddressBook, VariableName: sampleAb, VariableName: AddressBook
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Name, Class: Name
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Name, Class: Name
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name, VariableName: fullName, VariableName: trimmedName
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Phone, Class: Phone
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Phone, Class: Phone
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone, VariableName: value, VariableName: trimmedPhone
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Email, Class: Email
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Email, Class: Email
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email, VariableName: value, VariableName: trimmedEmail
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Address, Class: Address
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address, VariableName: value, VariableName: address
+LineNumber: 64, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getTagSet, Class: SampleDataUtil, VariableName: HashSet, VariableName: Tag, VariableName: tags, VariableName: HashSet
+LineNumber: 24, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Tag, Class: Tag
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Tag, Class: Tag
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag, VariableName: tagName, VariableName: trimmedName
+LineNumber: 66, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getTagSet, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Name, Class: Name
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Name, Class: Name
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name, VariableName: fullName, VariableName: trimmedName
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Phone, Class: Phone
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Phone, Class: Phone
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone, VariableName: value, VariableName: trimmedPhone
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Email, Class: Email
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Email, Class: Email
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email, VariableName: value, VariableName: trimmedEmail
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Address, Class: Address
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address, VariableName: value, VariableName: address
+LineNumber: 64, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getTagSet, Class: SampleDataUtil, VariableName: HashSet, VariableName: Tag, VariableName: tags, VariableName: HashSet
+LineNumber: 24, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Tag, Class: Tag
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Tag, Class: Tag
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag, VariableName: tagName, VariableName: trimmedName
+LineNumber: 66, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getTagSet, Class: SampleDataUtil
+LineNumber: 24, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Tag, Class: Tag
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Tag, Class: Tag
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag, VariableName: tagName, VariableName: trimmedName
+LineNumber: 66, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getTagSet, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Name, Class: Name
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Name, Class: Name
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name, VariableName: fullName, VariableName: trimmedName
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Phone, Class: Phone
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Phone, Class: Phone
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone, VariableName: value, VariableName: trimmedPhone
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Email, Class: Email
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Email, Class: Email
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email, VariableName: value, VariableName: trimmedEmail
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Address, Class: Address
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address, VariableName: value, VariableName: address
+LineNumber: 64, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getTagSet, Class: SampleDataUtil, VariableName: HashSet, VariableName: Tag, VariableName: tags, VariableName: HashSet
+LineNumber: 24, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Tag, Class: Tag
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Tag, Class: Tag
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag, VariableName: tagName, VariableName: trimmedName
+LineNumber: 66, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getTagSet, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Name, Class: Name
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Name, Class: Name
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name, VariableName: fullName, VariableName: trimmedName
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Phone, Class: Phone
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Phone, Class: Phone
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone, VariableName: value, VariableName: trimmedPhone
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Email, Class: Email
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Email, Class: Email
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email, VariableName: value, VariableName: trimmedEmail
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Address, Class: Address
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address, VariableName: value, VariableName: address
+LineNumber: 64, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getTagSet, Class: SampleDataUtil, VariableName: HashSet, VariableName: Tag, VariableName: tags, VariableName: HashSet
+LineNumber: 24, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Tag, Class: Tag
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Tag, Class: Tag
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag, VariableName: tagName, VariableName: trimmedName
+LineNumber: 66, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getTagSet, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Name, Class: Name
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Name, Class: Name
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name, VariableName: fullName, VariableName: trimmedName
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Phone, Class: Phone
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Phone, Class: Phone
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone, VariableName: value, VariableName: trimmedPhone
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Email, Class: Email
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Email, Class: Email
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email, VariableName: value, VariableName: trimmedEmail
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Address, Class: Address
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address, VariableName: value, VariableName: address
+LineNumber: 64, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getTagSet, Class: SampleDataUtil, VariableName: HashSet, VariableName: Tag, VariableName: tags, VariableName: HashSet
+LineNumber: 24, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Tag, Class: Tag
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Tag, Class: Tag
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag, VariableName: tagName, VariableName: trimmedName
+LineNumber: 66, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getTagSet, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Name, Class: Name
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Name, Class: Name
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Name, Class: Name, VariableName: fullName, VariableName: trimmedName
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Phone, Class: Phone
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Phone, Class: Phone
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Phone, Class: Phone, VariableName: value, VariableName: trimmedPhone
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Email, Class: Email
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Email, Class: Email
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Email, Class: Email, VariableName: value, VariableName: trimmedEmail
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Address, Class: Address
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Address, Class: Address, VariableName: value, VariableName: address
+LineNumber: 64, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getTagSet, Class: SampleDataUtil, VariableName: HashSet, VariableName: Tag, VariableName: tags, VariableName: HashSet
+LineNumber: 24, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: Tag, Class: Tag
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.IfStatement, Method: Tag, Class: Tag
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Tag, Class: Tag, VariableName: tagName, VariableName: trimmedName
+LineNumber: 66, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getTagSet, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 87, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: addPerson, Class: AddressBook, VariableName: Person, VariableName: newPerson, VariableName: Person, VariableName: p
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 88, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 92, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 52, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getSampleAddressBook, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 87, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: addPerson, Class: AddressBook, VariableName: Person, VariableName: newPerson, VariableName: Person, VariableName: p
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 88, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 92, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 52, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getSampleAddressBook, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 87, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: addPerson, Class: AddressBook, VariableName: Person, VariableName: newPerson, VariableName: Person, VariableName: p
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 88, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 92, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 52, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getSampleAddressBook, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 87, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: addPerson, Class: AddressBook, VariableName: Person, VariableName: newPerson, VariableName: Person, VariableName: p
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 88, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 92, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 52, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getSampleAddressBook, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 87, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: addPerson, Class: AddressBook, VariableName: Person, VariableName: newPerson, VariableName: Person, VariableName: p
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 88, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 92, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 52, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getSampleAddressBook, Class: SampleDataUtil
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 87, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: addPerson, Class: AddressBook, VariableName: Person, VariableName: newPerson, VariableName: Person, VariableName: p
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 88, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 92, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addPerson, Class: AddressBook
+LineNumber: 52, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getSampleAddressBook, Class: SampleDataUtil
+LineNumber: 96, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initModelManager, Class: MainApp
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getInstance, Class: EventsCenter, VariableName: instance
+LineNumber: 21, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ComponentManager, Class: ComponentManager, VariableName: eventsCenter, VariableName: eventsCenter
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerHandler, Class: EventsCenter
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ComponentManager, Class: ComponentManager
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ModelManager, Class: ModelManager
+LineNumber: 71, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: toString, Class: UserPrefs, VariableName: StringBuilder, VariableName: sb, VariableName: StringBuilder
+LineNumber: 67, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: toString, Class: GuiSettings, VariableName: StringBuilder, VariableName: sb, VariableName: StringBuilder
+LineNumber: 68, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: toString, Class: GuiSettings
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: toString, Class: GuiSettings
+LineNumber: 70, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: toString, Class: GuiSettings
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: toString, Class: UserPrefs
+LineNumber: 73, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: toString, Class: UserPrefs
+LineNumber: 74, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: toString, Class: UserPrefs
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ModelManager, Class: ModelManager
+LineNumber: 92, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: setPersons, Class: UniquePersonList, VariableName: UniquePersonList, VariableName: replacement, VariableName: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setPersons, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setPersons, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setPersons, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setPersons, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setPersons, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: contains, Class: UniquePersonList
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.IfStatement, Method: add, Class: UniquePersonList
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: name, VariableName: SimpleObjectProperty, VariableName: name
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: phone, VariableName: SimpleObjectProperty, VariableName: phone
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: email, VariableName: SimpleObjectProperty, VariableName: email
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: address, VariableName: SimpleObjectProperty, VariableName: address
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: Person, Class: Person, VariableName: tags, VariableName: SimpleObjectProperty, VariableName: UniqueTagList, VariableName: tags
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: add, Class: UniquePersonList
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setPersons, Class: UniquePersonList
+LineNumber: 88, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setPersons, Class: UniquePersonList
+LineNumber: 96, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setPersons, Class: UniquePersonList
+LineNumber: 55, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setPersons, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 59, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 123, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 124, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 128, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Map, VariableName: Tag, VariableName: Tag, VariableName: masterTagObjects, VariableName: HashMap
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: syncMasterTagListWith, Class: AddressBook, VariableName: Set, VariableName: Tag, VariableName: correctTagReferences, VariableName: HashSet
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: requireAllNonNull, Class: CollectionUtil
+LineNumber: 122, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTags, Class: Person
+LineNumber: 134, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 144, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: syncMasterTagListWith, Class: AddressBook
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: AddressBook, Class: AddressBook
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ModelManager, Class: ModelManager, VariableName: addressBook, VariableName: AddressBook, VariableName: addressBook
+LineNumber: 39, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ModelManager, Class: ModelManager
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: MainApp
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getInstance, Class: EventsCenter, VariableName: instance
+LineNumber: 21, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ComponentManager, Class: ComponentManager, VariableName: eventsCenter, VariableName: eventsCenter
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerHandler, Class: EventsCenter
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ComponentManager, Class: ComponentManager
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: LogicManager, Class: LogicManager, VariableName: model, VariableName: model
+LineNumber: 15, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: CommandHistory, Class: CommandHistory, VariableName: userInputHistory, VariableName: LinkedList
+LineNumber: 29, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: LogicManager, Class: LogicManager, VariableName: history, VariableName: CommandHistory
+LineNumber: 30, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: LogicManager, Class: LogicManager, VariableName: addressBookParser, VariableName: AddressBookParser
+LineNumber: 19, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UndoRedoStack, Class: UndoRedoStack, VariableName: undoStack, VariableName: Stack
+LineNumber: 20, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UndoRedoStack, Class: UndoRedoStack, VariableName: redoStack, VariableName: Stack
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: LogicManager, Class: LogicManager, VariableName: undoRedoStack, VariableName: UndoRedoStack
+LineNumber: 71, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: MainApp, VariableName: logic, VariableName: LogicManager, VariableName: model
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getInstance, Class: EventsCenter, VariableName: instance
+LineNumber: 21, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ComponentManager, Class: ComponentManager, VariableName: eventsCenter, VariableName: eventsCenter
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerHandler, Class: EventsCenter
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ComponentManager, Class: ComponentManager
+LineNumber: 42, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiManager, Class: UiManager, VariableName: logic, VariableName: logic
+LineNumber: 43, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiManager, Class: UiManager, VariableName: config, VariableName: config
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiManager, Class: UiManager, VariableName: prefs, VariableName: prefs
+LineNumber: 73, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: MainApp, VariableName: ui, VariableName: UiManager, VariableName: logic, VariableName: config, VariableName: userPrefs
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getInstance, Class: EventsCenter, VariableName: instance
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerHandler, Class: EventsCenter
+LineNumber: 181, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initEventsCenter, Class: MainApp
+LineNumber: 75, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: init, Class: MainApp
+LineNumber: 186, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: start, Class: MainApp
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: start, Class: UiManager
+LineNumber: 50, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: start, Class: UiManager
+LineNumber: 53, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: start, Class: UiManager
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 70, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow, VariableName: primaryStage, VariableName: primaryStage
+LineNumber: 71, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow, VariableName: logic, VariableName: logic
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow, VariableName: config, VariableName: config
+LineNumber: 73, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow, VariableName: prefs, VariableName: prefs
+LineNumber: 150, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setTitle, Class: MainWindow
+LineNumber: 76, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow
+LineNumber: 14, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getImage, Class: AppUtil
+LineNumber: 15, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setStageIcon, Class: FxViewUtil
+LineNumber: 158, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setIcon, Class: MainWindow
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow
+LineNumber: 174, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setWindowMinSize, Class: MainWindow
+LineNumber: 175, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setWindowMinSize, Class: MainWindow
+LineNumber: 78, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow
+LineNumber: 165, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setWindowDefaultSize, Class: MainWindow
+LineNumber: 166, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setWindowDefaultSize, Class: MainWindow
+LineNumber: 168, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setWindowDefaultSize, Class: MainWindow
+LineNumber: 169, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setWindowDefaultSize, Class: MainWindow
+LineNumber: 167, Type: org.eclipse.jdt.core.dom.IfStatement, Method: setWindowDefaultSize, Class: MainWindow
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow
+LineNumber: 80, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: MainWindow, Class: MainWindow
+LineNumber: 81, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow
+LineNumber: 100, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setAccelerator, Class: MainWindow
+LineNumber: 117, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setAccelerator, Class: MainWindow
+LineNumber: 92, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setAccelerators, Class: MainWindow
+LineNumber: 83, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getInstance, Class: EventsCenter, VariableName: instance
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerHandler, Class: EventsCenter
+LineNumber: 70, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerAsAnEventHandler, Class: UiPart
+LineNumber: 84, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: MainWindow, Class: MainWindow
+LineNumber: 56, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: start, Class: UiManager, VariableName: mainWindow, VariableName: MainWindow, VariableName: primaryStage, VariableName: config, VariableName: prefs, VariableName: logic
+LineNumber: 196, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: show, Class: MainWindow
+LineNumber: 57, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: start, Class: UiManager
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: BrowserPanel, Class: BrowserPanel
+LineNumber: 57, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: loadDefaultPage, Class: BrowserPanel
+LineNumber: 50, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: loadPage, Class: BrowserPanel
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: loadDefaultPage, Class: BrowserPanel
+LineNumber: 40, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: BrowserPanel, Class: BrowserPanel
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getInstance, Class: EventsCenter, VariableName: instance
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerHandler, Class: EventsCenter
+LineNumber: 70, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerAsAnEventHandler, Class: UiPart
+LineNumber: 41, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: BrowserPanel, Class: BrowserPanel
+LineNumber: 129, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: fillInnerParts, Class: MainWindow, VariableName: browserPanel, VariableName: BrowserPanel
+LineNumber: 130, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: fillInnerParts, Class: MainWindow
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 37, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: setConnections, Class: PersonListPanel
+LineNumber: 39, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setConnections, Class: PersonListPanel
+LineNumber: 40, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setConnections, Class: PersonListPanel
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setEventHandlerForSelectionChangeEvent, Class: PersonListPanel
+LineNumber: 41, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setConnections, Class: PersonListPanel
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonListPanel, Class: PersonListPanel
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getInstance, Class: EventsCenter, VariableName: instance
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerHandler, Class: EventsCenter
+LineNumber: 70, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerAsAnEventHandler, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonListPanel, Class: PersonListPanel
+LineNumber: 132, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: fillInnerParts, Class: MainWindow
+LineNumber: 133, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: fillInnerParts, Class: MainWindow
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 31, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ResultDisplay, Class: ResultDisplay
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getInstance, Class: EventsCenter, VariableName: instance
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerHandler, Class: EventsCenter
+LineNumber: 70, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerAsAnEventHandler, Class: UiPart
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ResultDisplay, Class: ResultDisplay
+LineNumber: 135, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: fillInnerParts, Class: MainWindow, VariableName: ResultDisplay, VariableName: resultDisplay, VariableName: ResultDisplay
+LineNumber: 136, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: fillInnerParts, Class: MainWindow
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 71, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setSyncStatus, Class: StatusBarFooter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: StatusBarFooter, Class: StatusBarFooter
+LineNumber: 67, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: setSaveLocation, Class: StatusBarFooter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: StatusBarFooter, Class: StatusBarFooter
+LineNumber: 22, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getInstance, Class: EventsCenter, VariableName: instance
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerHandler, Class: EventsCenter
+LineNumber: 70, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: registerAsAnEventHandler, Class: UiPart
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: StatusBarFooter, Class: StatusBarFooter
+LineNumber: 138, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: fillInnerParts, Class: MainWindow
+LineNumber: 139, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: fillInnerParts, Class: MainWindow
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.IfStatement, Method: getLogger, Class: LogsCenter, VariableName: clazz
+LineNumber: 44, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: removeHandlers, Class: LogsCenter
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addConsoleHandler, Class: LogsCenter, VariableName: consoleHandler
+LineNumber: 72, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addConsoleHandler, Class: LogsCenter
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 91, Type: org.eclipse.jdt.core.dom.IfStatement, Method: addFileHandler, Class: LogsCenter, VariableName: fileHandler
+LineNumber: 94, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: addFileHandler, Class: LogsCenter
+LineNumber: 49, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: getLogger, Class: LogsCenter
+LineNumber: 35, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: CommandBox, Class: CommandBox, VariableName: logic, VariableName: logic
+LineNumber: 37, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: CommandBox, Class: CommandBox
+LineNumber: 23, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ListElementPointer, Class: ListElementPointer, VariableName: list, VariableName: list
+LineNumber: 24, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: ListElementPointer, Class: ListElementPointer
+LineNumber: 38, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: CommandBox, Class: CommandBox
+LineNumber: 141, Type: org.eclipse.jdt.core.dom.VariableDeclarationStatement, Method: fillInnerParts, Class: MainWindow, VariableName: CommandBox, VariableName: commandBox, VariableName: CommandBox, VariableName: logic
+LineNumber: 142, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: fillInnerParts, Class: MainWindow
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: start, Class: UiManager
+LineNumber: 187, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: start, Class: MainApp
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 80, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 81, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard, VariableName: person, VariableName: person
+LineNumber: 46, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 67, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initTags, Class: PersonCard
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 56, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 57, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 59, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 60, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 83, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 80, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 81, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 80, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 81, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard, VariableName: person, VariableName: person
+LineNumber: 46, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 67, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initTags, Class: PersonCard
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 56, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 57, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 59, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 60, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 83, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 80, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 81, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard, VariableName: person, VariableName: person
+LineNumber: 46, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 67, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initTags, Class: PersonCard
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 56, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 57, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 59, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 60, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 83, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 80, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 81, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard, VariableName: person, VariableName: person
+LineNumber: 46, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 67, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initTags, Class: PersonCard
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 56, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 57, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 59, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 60, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 83, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 80, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 81, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 32, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 33, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart, VariableName: fxmlLoader, VariableName: FXMLLoader, VariableName: fxmlFileUrl
+LineNumber: 34, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 36, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: UiPart, Class: UiPart
+LineNumber: 45, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard, VariableName: person, VariableName: person
+LineNumber: 46, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 67, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: initTags, Class: PersonCard
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 56, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 57, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 58, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 59, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 60, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: bindListeners, Class: PersonCard
+LineNumber: 48, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: PersonCard, Class: PersonCard
+LineNumber: 77, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell, VariableName: updateItem, VariableName: person, VariableName: empty
+LineNumber: 83, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateItem, Class: PersonListViewCell
+LineNumber: 79, Type: org.eclipse.jdt.core.dom.IfStatement, Method: updateItem, Class: PersonListViewCell, VariableName: empty, VariableName: person
+LineNumber: 192, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: stop, Class: MainApp
+LineNumber: 26, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowWidth, VariableName: windowWidth
+LineNumber: 27, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowHeight, VariableName: windowHeight
+LineNumber: 28, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: GuiSettings, Class: GuiSettings, VariableName: windowCoordinates, VariableName: Point, VariableName: xPosition, VariableName: yPosition
+LineNumber: 25, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: updateLastUsedGuiSetting, Class: UserPrefs, VariableName: guiSettings, VariableName: guiSettings
+LineNumber: 68, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: stop, Class: UiManager
+LineNumber: 146, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: hide, Class: MainWindow
+LineNumber: 69, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: stop, Class: UiManager
+LineNumber: 65, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: freeResources, Class: BrowserPanel, VariableName: browser
+LineNumber: 212, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: releaseResources, Class: MainWindow
+LineNumber: 70, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: stop, Class: UiManager
+LineNumber: 193, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: stop, Class: MainApp
+LineNumber: 87, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveJsonFile, Class: JsonUtil
+LineNumber: 88, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveJsonFile, Class: JsonUtil
+LineNumber: 80, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: writeToFile, Class: FileUtil
+LineNumber: 42, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: serializeObjectToJsonFile, Class: JsonUtil
+LineNumber: 90, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveJsonFile, Class: JsonUtil
+LineNumber: 42, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveUserPrefs, Class: JsonUserPrefsStorage
+LineNumber: 47, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: saveUserPrefs, Class: StorageManager
+LineNumber: 195, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: stop, Class: MainApp
+LineNumber: 199, Type: org.eclipse.jdt.core.dom.ExpressionStatement, Method: stop, Class: MainApp

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="addressbook-level4-master_main" target="1.8" />
+      <module name="addressbook-level4-master_test" target="1.8" />
+      <module name="ngpgopi-gopikrishnan_narasimhaguptha_hw1-27b40f7b5d1e_main" target="1.8" />
+      <module name="ngpgopi-gopikrishnan_narasimhaguptha_hw1-27b40f7b5d1e_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

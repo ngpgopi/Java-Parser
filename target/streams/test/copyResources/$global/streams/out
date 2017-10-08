@@ -1,0 +1,5 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\ngpgo\Documents\addressbook-level4-master\src\test\resources\view,C:\Users\ngpgo\Documents\addressbook-level4-master\target\test-classes\view)
+[debug] 	(C:\Users\ngpgo\Documents\addressbook-level4-master\src\test\resources\view\UiPartTest,C:\Users\ngpgo\Documents\addressbook-level4-master\target\test-classes\view\UiPartTest)
+[debug] 	(C:\Users\ngpgo\Documents\addressbook-level4-master\src\test\resources\view\UiPartTest\invalidFile.fxml,C:\Users\ngpgo\Documents\addressbook-level4-master\target\test-classes\view\UiPartTest\invalidFile.fxml)
+[debug] 	(C:\Users\ngpgo\Documents\addressbook-level4-master\src\test\resources\view\UiPartTest\validFile.fxml,C:\Users\ngpgo\Documents\addressbook-level4-master\target\test-classes\view\UiPartTest\validFile.fxml)
